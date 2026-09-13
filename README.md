@@ -107,5 +107,8 @@ Responsive navigation, adaptive layout components, and optimized content loading
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/sugar-wise.git
+   git clone https://github.com/Suhassk205/sugar-wise.git
    cd sugar-wise
+
+## Screenshots
+![App Preview](docs/screenshot.png)
